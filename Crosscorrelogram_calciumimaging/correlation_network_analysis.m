@@ -97,7 +97,7 @@
 %   Author:   Andrea Locarno, Stockholm University, ORCID: 0000-0003-0640-1510
 %   Contact:  andrea.locarno@dbb.su.se; andrealocarno91@gmail.com
 %   Citation: https://doi.org/10.64898/2026.07.16.737908
-%   License:  CC-BY-4.0.
+%   License:  GPLv3
 %  ========================================================================
 
 clearvars
