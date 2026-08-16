@@ -10,7 +10,7 @@ MATLAB code for the electrophysiological and calcium-imaging analyses reported i
 
 - **Author:** Andrea Locarno, Stockholm University, ORCID: 0000-0003-0640-1510
 - **Contact:** andrea.locarno@dbb.su.se; andrealocarno91@gmail.com
-- **License:**  CC-BY-4.0. `abfload.m` has its own license and is not covered by it.
+- **License:**  GPLv3 `abfload.m` has its own license and is not covered by it.
 
 ## What is here
 
